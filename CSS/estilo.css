@@ -1,0 +1,76 @@
+body {
+	font-family: 'Montserrat', sans-serif;	
+	margin:0;
+	background-attachment:fixed;
+	}
+
+/* Salve professor */
+nav, h1, h2, h3 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.roxo {
+	color: #580473 !important;
+}
+
+.amarelo {
+	color: #ffc802 !important;}
+
+.cinza {
+	color:#ffc700;
+	background-color:#ffc802;}
+
+	
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+
+.linha {
+  margin: auto;
+  width: 20%;
+  padding: 10px;
+}
+
+#geral {
+	max-width:1000px;
+	margin:0 auto;
+	padding:10px;}
+
+section {
+	margin-top:10px;
+	margin-left: 20%;
+	margin-right: 20%;
+	padding:10px;
+}
+
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0
+}
+
+direita {
+  text-align: left;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: none;
+  cursor: pointer;
+  padding: 0px;
+  border-radius: 200%;
+}
+
+#myBtn:hover {
+  background-color: #360346;
+}
+
+
